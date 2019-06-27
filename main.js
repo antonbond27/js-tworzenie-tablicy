@@ -1,0 +1,1 @@
+const tab1 = [557472, 9999, 0, 22, 15, 657, 3]; //tablica z 7 elementami
